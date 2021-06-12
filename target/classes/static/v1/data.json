@@ -1,0 +1,59 @@
+[
+
+  {
+    "date": "2021-01-01",
+    "name": "Confraternização mundial",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-02-16",
+    "name": "Carnaval",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-04-04",
+    "name": "Páscoa",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-04-21",
+    "name": "Tiradentes",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-05-01",
+    "name": "Dia do trabalho",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-06-03",
+    "name": "Corpus Christi",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-09-07",
+    "name": "Independência do Brasil",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-10-12",
+    "name": "Nossa Senhora Aparecida",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-11-02",
+    "name": "Finados",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-11-15",
+    "name": "Proclamação da República",
+    "type": "nacional"
+  },
+  {
+    "date": "2021-12-25",
+    "name": "Natal",
+    "type": "nacional"
+  }
+
+]
